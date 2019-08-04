@@ -1,0 +1,6 @@
+server:
+  port: 22100
+
+pansoft-fastdfs:
+  #文件在web上面的临时存放目录
+  upload_location: E:\\upload\\
